@@ -17,38 +17,38 @@ Versions:
 # 以.9999結尾的是前一個主版號升級到新的主版號須套用的patch，譬如從1.19.3升上2.0
 V0.9999:
   Release: "2022-09-01"
-  URL: "https://mega.cloudwatch.net/index.php/s/miWKGn2nW7cNYwf/download/app-tables_V0.9999.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables_V0.9999.sql"
   FileName: "app-tables_V0.9999.sql"
 V1.0:
   Release: "2022-10-01"
-  URL: "https://mega.cloudwatch.net/index.php/s/5bzFyprYcaFFaeZ/download/app-tables.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables.sql"
   FileName: "app-tables.sql"
 V1.11.1:
   Release: "2022-10-23"
-  URL: "https://mega.cloudwatch.net/index.php/s/C8P9zzK9maw2poy/download/app-tables_V1.11.1.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables_V1.11.1.sql"
   FileName: "app-tables_V1.11.1.sql"
 V1.11.2:
   Release: "2022-10-30"
-  URL: "https://mega.cloudwatch.net/index.php/s/BjZJRSBYkoBdS7Y/download/app-tables_V1.11.2.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables_V1.11.2.sql"
   FileName: "app-tables_V1.11.2.sql"
 V1.11.3:
   Release: "2022-10-23"
-  URL: "https://mega.cloudwatch.net/index.php/s/ob8zP43ejDgpLje/download/app-tables_V1.11.3.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables_V1.11.3.sql"
   FileName: "app-tables_V1.11.3.sql"
 V1.11.4:
   Release: "2022-10-30"
-  URL: "https://mega.cloudwatch.net/index.php/s/Cf9iti8QgReDA9n/download/app-tables_V1.11.4.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables_V1.11.4.sql"
   FileName: "app-tables_V1.11.4.sql"
 V1.11.5:
   Release: "2022-11-08"
-  URL: "https://mega.cloudwatch.net/index.php/s/e46sWGNjf5Y5y4R/download/app-tables_V1.11.5.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables_V1.11.5.sql"
   FileName: "app-tables_V1.11.5.sql"
 V1.11.6:
   Release: "2022-11-11"
-  URL: "https://mega.cloudwatch.net/index.php/s/NWW7J3ppzd2Hrax/download/app-tables_V1.11.6.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables_V1.11.6.sql"
   FileName: "app-tables_V1.11.6.sql"
 V1.11.7:
   Release: "2022-11-15"
-  URL: "https://mega.cloudwatch.net/index.php/s/nar3ykspge4wdq8/download/app-tables_V1.11.7.sql"
+  URL: "https://raw.githubusercontent.com/IAE-BigObject/SQL/main/app-tables_V1.11.7.sql"
   FileName: "app-tables_V1.11.7.sql"
   
